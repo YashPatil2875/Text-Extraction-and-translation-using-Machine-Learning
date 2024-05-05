@@ -6,7 +6,6 @@ The application also offers translation services, making it useful for users acr
 # Requirements
 
 certifi==2021.10.8
-
 chardet==3.0.4
 
 charset-normalizer==2.0.12
